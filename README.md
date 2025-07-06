@@ -1,3 +1,4 @@
+🏷️[Abrir Proyecto](https://github.com/JorgeRivero1/AI_Voice_Translator/blob/main/AI_Voice_Translator.py)
 # 🎙️ Traductor de Voz con IA
 
 Este proyecto es una aplicación web que utiliza **Inteligencia Artificial** para transcribir voz en español y traducirla automáticamente a varios idiomas, generando la salida en formato de audio usando **Gradio**, **Whisper**, **Translate** y **ElevenLabs**.
